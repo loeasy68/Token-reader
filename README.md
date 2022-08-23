@@ -1,6 +1,6 @@
 # Token-reader
 it will allow tokens to be read
-```javascript
+```console
 ./setup.sh
 ./reader.py 
 ```
